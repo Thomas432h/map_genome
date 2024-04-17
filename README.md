@@ -21,7 +21,7 @@ Cloner le dépôt :
 
 bash
 
-git clone https://github.com/votre_nom_utilisateur/mapping-genomique.git
+git clone https://github.com/Thomas432h/map_genome.git
 
 Se déplacer dans le répertoire du projet :
 
